@@ -17,5 +17,16 @@ For Guest
 You can browser some products without Login but you cannot make any puchases.
 
 ![HomePage1](Homepage1.png)
+![HomePage2](Homepage2.png)
+![jerseysss](jerseysss.png)
+![shoppingcart](shoppingcart.png)
+![ordersummary](ordersummary.png)
+![stripe](stripe.png)
+![STRIPEsuccess](STRIPEsuccess.png)
+![thanks](thanks.png)
+
+
+
+
 
 
