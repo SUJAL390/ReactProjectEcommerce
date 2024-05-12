@@ -16,8 +16,9 @@ You must create an account if you are a new user before login after creating an 
 For Guest
 You can browser some products without Login but you cannot make any puchases.
 
+![HomePage](HomePage.png)
 ![HomePage1](Homepage1.png)
-![HomePage2](Homepage2.png)
+![HomePage2](HomePage2.png)
 ![jerseysss](jerseysss.png)
 ![shoppingcart](shoppingcart.png)
 ![ordersummary](ordersummary.png)
