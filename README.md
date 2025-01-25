@@ -18,7 +18,6 @@ You can browser some products without Login but you cannot make any puchases.
 
 ![HomePage](HomePage.png)
 ![HomePage1](Homepage1.png)
-![HomePage2](HomePage2.png)
 ![jerseysss](jerseysss.png)
 ![shoppingcart](shoppingcart.png)
 ![ordersummary](ordersummary.png)
